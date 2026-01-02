@@ -76,4 +76,3 @@ for day in range(367):
     if(day == 367):
         nick.end_of_day()
 print("student have lived for entire year, code shuts down...")
-print(nick.name)
