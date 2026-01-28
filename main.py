@@ -17,3 +17,5 @@ class vzlom_pentagona:
 
 for brootforce in vzlom_pentagona():
     print(brootforce)
+    #какое название придумали похоронное бюро и организаторы праздников в совместном бизнесе?
+#"посмеялись и хватит"
